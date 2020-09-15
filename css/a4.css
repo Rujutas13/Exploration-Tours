@@ -1,0 +1,22 @@
+body{
+	background-image: url(https://images.pexels.com/photos/1405762/pexels-photo-1405762.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+	background-size: cover;
+	background-position: center;
+	text-align: right;
+	font-family: 'Sriracha', cursive;
+}
+p,h2,h4{
+	color: #800000;
+}
+.container{
+	padding-left: 60%;
+	text-align: center;
+	font-style: bold;
+	font-size: 20px;
+
+}
+
+html{
+	height: 100%;
+	width: 100%;
+}

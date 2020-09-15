@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	background-image: url(https://images.pexels.com/photos/2131623/pexels-photo-2131623.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+	background-position: center;
+	background-size: cover;
+	color: white;
+	font-family: 'Sriracha', cursive;
+}
+.container{
+	padding-top: 5%;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+html{
+	height: 100%;
+}

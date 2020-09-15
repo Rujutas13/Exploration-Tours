@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	font-family: 'Sriracha', cursive;
+}
+html{
+	height: 100%;
+	width: 100%;
+}
+#he{
+	font-size: 2em;
+	font-family: 'Sriracha', cursive;
+	
+}
+.navbar{
+	font-family: 'Sriracha', cursive;
+}
+body{
+	background: url(https://images.pexels.com/photos/326240/pexels-photo-326240.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+	background-size: cover;
+	background-position: center;
+}

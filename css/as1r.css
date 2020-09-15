@@ -1,0 +1,20 @@
+body{
+	background: url(https://images.pexels.com/photos/2007401/pexels-photo-2007401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Sriracha', cursive;
+}
+
+html{
+	height: 100%;
+}
+
+ #content{
+ 	text-align: center;
+ 	padding-top: 20%;
+
+ }
+
+ h1{
+ 	font-size: 4em;
+ }
